@@ -4,7 +4,7 @@
 ---
 release_platforms:
   debian:
-  - bookworm
+  - trixie
   rhel:
   - '9'
   ubuntu:
