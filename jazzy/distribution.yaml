@@ -7205,7 +7205,7 @@ repositories:
       - rosidl_typesupport_introspection_cpp
       tags:
         release: release/jazzy/{package}/{version}
-      url: https://github.com/ros2-gbp/rosidl-release.git
+      url: https://github.com/loongros2/rosidl-release.git
       version: 4.6.5-1
     source:
       test_pull_requests: true
