@@ -5524,7 +5524,7 @@ repositories:
     release:
       tags:
         release: release/jazzy/{package}/{version}
-      url: https://github.com/ros2-gbp/python_cmake_module-release.git
+      url: https://github.com/loongros2/python_cmake_module-release.git
       version: 0.11.1-2
     source:
       type: git
