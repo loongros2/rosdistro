@@ -6120,7 +6120,7 @@ repositories:
     release:
       tags:
         release: release/jazzy/{package}/{version}
-      url: https://github.com/ros2-gbp/realtime_tools-release.git
+      url: https://github.com/loongros2/realtime_tools-release.git
       version: 3.0.0-1
     source:
       type: git
