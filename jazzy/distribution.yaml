@@ -5899,7 +5899,7 @@ repositories:
       - type_description_interfaces
       tags:
         release: release/jazzy/{package}/{version}
-      url: https://github.com/ros2-gbp/rcl_interfaces-release.git
+      url: https://github.com/loongros2/rcl_interfaces-release.git
       version: 2.0.2-2
     source:
       test_pull_requests: true
