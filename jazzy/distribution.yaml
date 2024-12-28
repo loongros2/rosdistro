@@ -42,7 +42,7 @@ repositories:
     release:
       tags:
         release: release/jazzy/{package}/{version}
-      url: https://github.com/ros2-gbp/ackermann_msgs-release.git
+      url: https://github.com/loongros2/ackermann_msgs-release.git
       version: 2.0.2-6
     source:
       type: git
