@@ -6004,7 +6004,7 @@ repositories:
     release:
       tags:
         release: release/jazzy/{package}/{version}
-      url: https://github.com/ros2-gbp/rcpputils-release.git
+      url: https://github.com/loongros2/rcpputils-release.git
       version: 2.11.1-1
     source:
       test_pull_requests: true
