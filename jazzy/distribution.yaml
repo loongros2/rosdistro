@@ -2506,7 +2506,7 @@ repositories:
       - grid_map_visualization
       tags:
         release: release/jazzy/{package}/{version}
-      url: https://github.com/ros2-gbp/grid_map-release.git
+      url: https://github.com/loongros2/grid_map-release.git
       version: 2.2.0-1
     source:
       type: git
