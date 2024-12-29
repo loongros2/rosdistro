@@ -2344,7 +2344,7 @@ repositories:
       - tf2_tools
       tags:
         release: release/jazzy/{package}/{version}
-      url: https://github.com/ros2-gbp/geometry2-release.git
+      url: https://github.com/loongros2/geometry2-release.git
       version: 0.36.7-1
     source:
       test_pull_requests: true
