@@ -7385,7 +7385,7 @@ repositories:
       - rclpy_message_converter_msgs
       tags:
         release: release/jazzy/{package}/{version}
-      url: https://github.com/ros2-gbp/rospy_message_converter-release.git
+      url: https://github.com/loongros2/rospy_message_converter-release.git
       version: 2.0.1-4
     source:
       test_pull_requests: true
