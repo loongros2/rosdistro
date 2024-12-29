@@ -7261,7 +7261,7 @@ repositories:
       - rosidl_default_runtime
       tags:
         release: release/jazzy/{package}/{version}
-      url: https://github.com/ros2-gbp/rosidl_defaults-release.git
+      url: https://github.com/loongros2/rosidl_defaults-release.git
       version: 1.6.0-3
     source:
       test_pull_requests: true
