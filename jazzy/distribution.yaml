@@ -1184,7 +1184,7 @@ repositories:
       - tl_expected
       tags:
         release: release/jazzy/{package}/{version}
-      url: https://github.com/ros2-gbp/cpp_polyfills-release.git
+      url: https://github.com/loongros2/cpp_polyfills-release.git
       version: 1.0.2-5
     source:
       type: git
