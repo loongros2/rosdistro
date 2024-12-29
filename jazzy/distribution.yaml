@@ -2917,7 +2917,7 @@ repositories:
       - iceoryx_posh
       tags:
         release: release/jazzy/{package}/{version}
-      url: https://github.com/ros2-gbp/iceoryx-release.git
+      url: https://github.com/loongros2/iceoryx-release.git
       version: 2.0.6-1
     source:
       type: git
