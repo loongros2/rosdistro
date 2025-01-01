@@ -7957,7 +7957,7 @@ repositories:
       - rtabmap_viz
       tags:
         release: release/jazzy/{package}/{version}
-      url: https://github.com/introlab/rtabmap_ros-release.git
+      url: https://github.com/loongros2/rtabmap_ros-release.git
       version: 0.21.9-1
     source:
       type: git
