@@ -5175,6 +5175,7 @@ libpcl-features:
     bookworm: [libpcl-features1.13]
     bullseye: [libpcl-features1.11]
     buster: [libpcl-features1.9]
+    trixie: [libpcl-features1.14]
   fedora: [pcl]
   freebsd: [libpcl]
   gentoo: [sci-libs/pcl]
