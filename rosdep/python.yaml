@@ -5255,7 +5255,7 @@ python3-catkin-pkg-modules:
   arch:
     pip:
       packages: [catkin-pkg]
-  debian: [python3-catkin-pkg-modules]
+  debian: [python3-catkin-pkg]
   fedora: [python3-catkin_pkg]
   gentoo: [dev-python/catkin_pkg]
   nixos: [python3Packages.catkin-pkg]
@@ -9321,7 +9321,7 @@ python3-rosdep:
   rhel: ['python%{python3_pkgversion}-rosdep']
   ubuntu: [python3-rosdep]
 python3-rosdep-modules:
-  debian: [python3-rosdep-modules]
+  debian: [python3-rosdep]
   fedora: [python3-rosdep]
   gentoo: [dev-util/rosdep]
   nixos: [python3Packages.rosdep]
@@ -9333,7 +9333,7 @@ python3-rosdistro-modules:
   arch:
     pip:
       packages: [rosdistro]
-  debian: [python3-rosdistro-modules]
+  debian: [python3-rosdistro]
   fedora: [python3-rosdistro]
   gentoo: [dev-python/rosdistro]
   nixos: [python3Packages.rosdistro]
@@ -9368,7 +9368,7 @@ python3-rospkg-modules:
     pip:
       packages: [rospkg]
   arch: [python-rospkg]
-  debian: [python3-rospkg-modules]
+  debian: [python3-rospkg]
   fedora: [python3-rospkg]
   freebsd:
     pip:
